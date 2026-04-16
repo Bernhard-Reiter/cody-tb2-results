@@ -1,0 +1,343 @@
+{
+  "count": 26,
+  "tasks": [
+    {
+      "task_id": "caffe-cifar-10",
+      "passed_runs": 0,
+      "total_runs": 5,
+      "pass_at_5": false,
+      "scores": [
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0
+      ]
+    },
+    {
+      "task_id": "cancel-async-tasks",
+      "passed_runs": 0,
+      "total_runs": 5,
+      "pass_at_5": false,
+      "scores": [
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0
+      ]
+    },
+    {
+      "task_id": "chess-best-move",
+      "passed_runs": 0,
+      "total_runs": 5,
+      "pass_at_5": false,
+      "scores": [
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0
+      ]
+    },
+    {
+      "task_id": "dna-assembly",
+      "passed_runs": 0,
+      "total_runs": 5,
+      "pass_at_5": false,
+      "scores": [
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0
+      ]
+    },
+    {
+      "task_id": "dna-insert",
+      "passed_runs": 0,
+      "total_runs": 5,
+      "pass_at_5": false,
+      "scores": [
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0
+      ]
+    },
+    {
+      "task_id": "extract-moves-from-video",
+      "passed_runs": 0,
+      "total_runs": 5,
+      "pass_at_5": false,
+      "scores": [
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0
+      ]
+    },
+    {
+      "task_id": "filter-js-from-html",
+      "passed_runs": 0,
+      "total_runs": 5,
+      "pass_at_5": false,
+      "scores": [
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0
+      ]
+    },
+    {
+      "task_id": "financial-document-processor",
+      "passed_runs": 0,
+      "total_runs": 5,
+      "pass_at_5": false,
+      "scores": [
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0
+      ]
+    },
+    {
+      "task_id": "gpt2-codegolf",
+      "passed_runs": 0,
+      "total_runs": 5,
+      "pass_at_5": false,
+      "scores": [
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0
+      ]
+    },
+    {
+      "task_id": "install-windows-3-11",
+      "passed_runs": 0,
+      "total_runs": 5,
+      "pass_at_5": false,
+      "scores": [
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0
+      ]
+    },
+    {
+      "task_id": "make-doom-for-mips",
+      "passed_runs": 0,
+      "total_runs": 5,
+      "pass_at_5": false,
+      "scores": [
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0
+      ]
+    },
+    {
+      "task_id": "make-mips-interpreter",
+      "passed_runs": 0,
+      "total_runs": 5,
+      "pass_at_5": false,
+      "scores": [
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0
+      ]
+    },
+    {
+      "task_id": "model-extraction-relu-logits",
+      "passed_runs": 0,
+      "total_runs": 5,
+      "pass_at_5": false,
+      "scores": [
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0
+      ]
+    },
+    {
+      "task_id": "openssl-selfsigned-cert",
+      "passed_runs": 0,
+      "total_runs": 5,
+      "pass_at_5": false,
+      "scores": [
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0
+      ]
+    },
+    {
+      "task_id": "protein-assembly",
+      "passed_runs": 0,
+      "total_runs": 5,
+      "pass_at_5": false,
+      "scores": [
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0
+      ]
+    },
+    {
+      "task_id": "qemu-alpine-ssh",
+      "passed_runs": 0,
+      "total_runs": 5,
+      "pass_at_5": false,
+      "scores": [
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0
+      ]
+    },
+    {
+      "task_id": "qemu-startup",
+      "passed_runs": 0,
+      "total_runs": 5,
+      "pass_at_5": false,
+      "scores": [
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0
+      ]
+    },
+    {
+      "task_id": "raman-fitting",
+      "passed_runs": 0,
+      "total_runs": 5,
+      "pass_at_5": false,
+      "scores": [
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0
+      ]
+    },
+    {
+      "task_id": "regex-chess",
+      "passed_runs": 0,
+      "total_runs": 5,
+      "pass_at_5": false,
+      "scores": [
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0
+      ]
+    },
+    {
+      "task_id": "sam-cell-seg",
+      "passed_runs": 0,
+      "total_runs": 5,
+      "pass_at_5": false,
+      "scores": [
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0
+      ]
+    },
+    {
+      "task_id": "sanitize-git-repo",
+      "passed_runs": 0,
+      "total_runs": 5,
+      "pass_at_5": false,
+      "scores": [
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0
+      ]
+    },
+    {
+      "task_id": "torch-pipeline-parallelism",
+      "passed_runs": 0,
+      "total_runs": 5,
+      "pass_at_5": false,
+      "scores": [
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0
+      ]
+    },
+    {
+      "task_id": "train-fasttext",
+      "passed_runs": 0,
+      "total_runs": 5,
+      "pass_at_5": false,
+      "scores": [
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0
+      ]
+    },
+    {
+      "task_id": "tune-mjcf",
+      "passed_runs": 0,
+      "total_runs": 5,
+      "pass_at_5": false,
+      "scores": [
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0
+      ]
+    },
+    {
+      "task_id": "video-processing",
+      "passed_runs": 0,
+      "total_runs": 5,
+      "pass_at_5": false,
+      "scores": [
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0
+      ]
+    },
+    {
+      "task_id": "winning-avg-corewars",
+      "passed_runs": 0,
+      "total_runs": 5,
+      "pass_at_5": false,
+      "scores": [
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0
+      ]
+    }
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "run_date": "2026-04-15",
+  "agent": "CodyRuntimeAgent",
+  "agent_version": "7.0",
+  "org": "VI4",
+  "model_id": "claude-opus-4-6",
+  "model_provider": "Anthropic",
+  "dataset": "terminal-bench@2.0",
+  "harbor_version": "0.3.0",
+  "n_attempts": 5,
+  "n_concurrent": 4,
+  "timeout_multiplier": 1.0,
+  "total_tasks": 89,
+  "total_trials": 445,
+  "pass_any": 63,
+  "score_pct": 70.8,
+  "pass_at_5_definition": "at least 1 of 5 independent attempts returns reward > 0",
+  "tarball_sha256": "c7494586c59779311cdc4cf13b569556cfd691f01d0d6dbec654bb8c5073f7a2",
+  "logs_available_on_request": true,
+  "reproducibility": "Agent source code and run configuration available on request. Harbor 0.3.0 with terminal-bench@2.0 dataset."
+}
