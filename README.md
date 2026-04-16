@@ -6,13 +6,14 @@
 |---|---|
 | Agent | CodyRuntimeAgent v7.0 |
 | Org | VOAI |
-| Model | Claude Opus 4.6 |
+| Model | Claude Opus 4.6 (`claude-opus-4-6`) |
 | Provider | Anthropic |
 | Dataset | terminal-bench@2.0 |
 | Runner | Harbor |
 | n_attempts | 5 |
 | n_tasks | 89 |
-| pass-any | 63/89 = **70.8%** |
+| pass-any (pass@5) | 63/89 = **70.8%** |
+| pass@5 definition | at least 1 of 5 independent attempts passes |
 | Total Trials | 445 |
 
 ## Architecture
