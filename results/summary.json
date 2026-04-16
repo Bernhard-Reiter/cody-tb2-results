@@ -901,5 +901,16 @@
         0.0
       ]
     }
+  },
+  "pass_at_5_definition": "at least 1 of 5 independent attempts returns reward > 0",
+  "model_id": "claude-opus-4-6",
+  "n_attempts_per_task": 5,
+  "evaluation_date": "2026-04-15",
+  "environment": {
+    "runner": "harbor",
+    "n_concurrent": 4,
+    "timeout_multiplier": 1.0,
+    "platform": "darwin",
+    "logs_available_on_request": true
   }
 }

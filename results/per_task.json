@@ -1,0 +1,1162 @@
+{
+  "definition": "pass@5 = at least 1 of 5 independent attempts returns reward > 0",
+  "tasks": [
+    {
+      "task_id": "adaptive-rejection-sampler",
+      "passed_runs": 3,
+      "total_runs": 5,
+      "pass_at_5": true,
+      "scores": [
+        1.0,
+        0.0,
+        1.0,
+        0.0,
+        1.0
+      ]
+    },
+    {
+      "task_id": "bn-fit-modify",
+      "passed_runs": 3,
+      "total_runs": 5,
+      "pass_at_5": true,
+      "scores": [
+        1.0,
+        1.0,
+        1.0,
+        0.0,
+        0.0
+      ]
+    },
+    {
+      "task_id": "break-filter-js-from-html",
+      "passed_runs": 4,
+      "total_runs": 5,
+      "pass_at_5": true,
+      "scores": [
+        0.0,
+        1.0,
+        1.0,
+        1.0,
+        1.0
+      ]
+    },
+    {
+      "task_id": "build-cython-ext",
+      "passed_runs": 1,
+      "total_runs": 5,
+      "pass_at_5": true,
+      "scores": [
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0
+      ]
+    },
+    {
+      "task_id": "build-pmars",
+      "passed_runs": 1,
+      "total_runs": 5,
+      "pass_at_5": true,
+      "scores": [
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0
+      ]
+    },
+    {
+      "task_id": "build-pov-ray",
+      "passed_runs": 3,
+      "total_runs": 5,
+      "pass_at_5": true,
+      "scores": [
+        1.0,
+        0.0,
+        1.0,
+        0.0,
+        1.0
+      ]
+    },
+    {
+      "task_id": "caffe-cifar-10",
+      "passed_runs": 0,
+      "total_runs": 5,
+      "pass_at_5": false,
+      "scores": [
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0
+      ]
+    },
+    {
+      "task_id": "cancel-async-tasks",
+      "passed_runs": 0,
+      "total_runs": 5,
+      "pass_at_5": false,
+      "scores": [
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0
+      ]
+    },
+    {
+      "task_id": "chess-best-move",
+      "passed_runs": 0,
+      "total_runs": 5,
+      "pass_at_5": false,
+      "scores": [
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0
+      ]
+    },
+    {
+      "task_id": "circuit-fibsqrt",
+      "passed_runs": 3,
+      "total_runs": 5,
+      "pass_at_5": true,
+      "scores": [
+        1.0,
+        0.0,
+        0.0,
+        1.0,
+        1.0
+      ]
+    },
+    {
+      "task_id": "cobol-modernization",
+      "passed_runs": 3,
+      "total_runs": 5,
+      "pass_at_5": true,
+      "scores": [
+        0.0,
+        0.0,
+        1.0,
+        1.0,
+        1.0
+      ]
+    },
+    {
+      "task_id": "code-from-image",
+      "passed_runs": 3,
+      "total_runs": 5,
+      "pass_at_5": true,
+      "scores": [
+        0.0,
+        1.0,
+        1.0,
+        1.0,
+        0.0
+      ]
+    },
+    {
+      "task_id": "compile-compcert",
+      "passed_runs": 2,
+      "total_runs": 5,
+      "pass_at_5": true,
+      "scores": [
+        0.0,
+        1.0,
+        1.0,
+        0.0,
+        0.0
+      ]
+    },
+    {
+      "task_id": "configure-git-webserver",
+      "passed_runs": 2,
+      "total_runs": 5,
+      "pass_at_5": true,
+      "scores": [
+        1.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0
+      ]
+    },
+    {
+      "task_id": "constraints-scheduling",
+      "passed_runs": 3,
+      "total_runs": 5,
+      "pass_at_5": true,
+      "scores": [
+        1.0,
+        1.0,
+        0.0,
+        0.0,
+        1.0
+      ]
+    },
+    {
+      "task_id": "count-dataset-tokens",
+      "passed_runs": 2,
+      "total_runs": 5,
+      "pass_at_5": true,
+      "scores": [
+        1.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0
+      ]
+    },
+    {
+      "task_id": "crack-7z-hash",
+      "passed_runs": 2,
+      "total_runs": 5,
+      "pass_at_5": true,
+      "scores": [
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0
+      ]
+    },
+    {
+      "task_id": "custom-memory-heap-crash",
+      "passed_runs": 3,
+      "total_runs": 5,
+      "pass_at_5": true,
+      "scores": [
+        1.0,
+        1.0,
+        1.0,
+        0.0,
+        0.0
+      ]
+    },
+    {
+      "task_id": "db-wal-recovery",
+      "passed_runs": 3,
+      "total_runs": 5,
+      "pass_at_5": true,
+      "scores": [
+        0.0,
+        1.0,
+        1.0,
+        1.0,
+        0.0
+      ]
+    },
+    {
+      "task_id": "distribution-search",
+      "passed_runs": 3,
+      "total_runs": 5,
+      "pass_at_5": true,
+      "scores": [
+        0.0,
+        1.0,
+        1.0,
+        1.0,
+        0.0
+      ]
+    },
+    {
+      "task_id": "dna-assembly",
+      "passed_runs": 0,
+      "total_runs": 5,
+      "pass_at_5": false,
+      "scores": [
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0
+      ]
+    },
+    {
+      "task_id": "dna-insert",
+      "passed_runs": 0,
+      "total_runs": 5,
+      "pass_at_5": false,
+      "scores": [
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0
+      ]
+    },
+    {
+      "task_id": "extract-elf",
+      "passed_runs": 3,
+      "total_runs": 5,
+      "pass_at_5": true,
+      "scores": [
+        1.0,
+        0.0,
+        1.0,
+        1.0,
+        0.0
+      ]
+    },
+    {
+      "task_id": "extract-moves-from-video",
+      "passed_runs": 0,
+      "total_runs": 5,
+      "pass_at_5": false,
+      "scores": [
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0
+      ]
+    },
+    {
+      "task_id": "feal-differential-cryptanalysis",
+      "passed_runs": 3,
+      "total_runs": 5,
+      "pass_at_5": true,
+      "scores": [
+        0.0,
+        1.0,
+        0.0,
+        1.0,
+        1.0
+      ]
+    },
+    {
+      "task_id": "feal-linear-cryptanalysis",
+      "passed_runs": 2,
+      "total_runs": 5,
+      "pass_at_5": true,
+      "scores": [
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        1.0
+      ]
+    },
+    {
+      "task_id": "filter-js-from-html",
+      "passed_runs": 0,
+      "total_runs": 5,
+      "pass_at_5": false,
+      "scores": [
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0
+      ]
+    },
+    {
+      "task_id": "financial-document-processor",
+      "passed_runs": 0,
+      "total_runs": 5,
+      "pass_at_5": false,
+      "scores": [
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0
+      ]
+    },
+    {
+      "task_id": "fix-code-vulnerability",
+      "passed_runs": 1,
+      "total_runs": 5,
+      "pass_at_5": true,
+      "scores": [
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0
+      ]
+    },
+    {
+      "task_id": "fix-git",
+      "passed_runs": 4,
+      "total_runs": 5,
+      "pass_at_5": true,
+      "scores": [
+        1.0,
+        1.0,
+        0.0,
+        1.0,
+        1.0
+      ]
+    },
+    {
+      "task_id": "fix-ocaml-gc",
+      "passed_runs": 4,
+      "total_runs": 5,
+      "pass_at_5": true,
+      "scores": [
+        1.0,
+        1.0,
+        1.0,
+        0.0,
+        1.0
+      ]
+    },
+    {
+      "task_id": "gcode-to-text",
+      "passed_runs": 1,
+      "total_runs": 5,
+      "pass_at_5": true,
+      "scores": [
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0
+      ]
+    },
+    {
+      "task_id": "git-leak-recovery",
+      "passed_runs": 4,
+      "total_runs": 5,
+      "pass_at_5": true,
+      "scores": [
+        0.0,
+        1.0,
+        1.0,
+        1.0,
+        1.0
+      ]
+    },
+    {
+      "task_id": "git-multibranch",
+      "passed_runs": 1,
+      "total_runs": 5,
+      "pass_at_5": true,
+      "scores": [
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0
+      ]
+    },
+    {
+      "task_id": "gpt2-codegolf",
+      "passed_runs": 0,
+      "total_runs": 5,
+      "pass_at_5": false,
+      "scores": [
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0
+      ]
+    },
+    {
+      "task_id": "headless-terminal",
+      "passed_runs": 4,
+      "total_runs": 5,
+      "pass_at_5": true,
+      "scores": [
+        0.0,
+        1.0,
+        1.0,
+        1.0,
+        1.0
+      ]
+    },
+    {
+      "task_id": "hf-model-inference",
+      "passed_runs": 1,
+      "total_runs": 5,
+      "pass_at_5": true,
+      "scores": [
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0
+      ]
+    },
+    {
+      "task_id": "install-windows-3-11",
+      "passed_runs": 0,
+      "total_runs": 5,
+      "pass_at_5": false,
+      "scores": [
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0
+      ]
+    },
+    {
+      "task_id": "kv-store-grpc",
+      "passed_runs": 1,
+      "total_runs": 5,
+      "pass_at_5": true,
+      "scores": [
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0
+      ]
+    },
+    {
+      "task_id": "large-scale-text-editing",
+      "passed_runs": 2,
+      "total_runs": 5,
+      "pass_at_5": true,
+      "scores": [
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        1.0
+      ]
+    },
+    {
+      "task_id": "largest-eigenval",
+      "passed_runs": 3,
+      "total_runs": 5,
+      "pass_at_5": true,
+      "scores": [
+        0.0,
+        0.0,
+        1.0,
+        1.0,
+        1.0
+      ]
+    },
+    {
+      "task_id": "llm-inference-batching-scheduler",
+      "passed_runs": 3,
+      "total_runs": 5,
+      "pass_at_5": true,
+      "scores": [
+        0.0,
+        1.0,
+        0.0,
+        1.0,
+        1.0
+      ]
+    },
+    {
+      "task_id": "log-summary-date-ranges",
+      "passed_runs": 2,
+      "total_runs": 5,
+      "pass_at_5": true,
+      "scores": [
+        1.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0
+      ]
+    },
+    {
+      "task_id": "mailman",
+      "passed_runs": 3,
+      "total_runs": 5,
+      "pass_at_5": true,
+      "scores": [
+        1.0,
+        1.0,
+        0.0,
+        0.0,
+        1.0
+      ]
+    },
+    {
+      "task_id": "make-doom-for-mips",
+      "passed_runs": 0,
+      "total_runs": 5,
+      "pass_at_5": false,
+      "scores": [
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0
+      ]
+    },
+    {
+      "task_id": "make-mips-interpreter",
+      "passed_runs": 0,
+      "total_runs": 5,
+      "pass_at_5": false,
+      "scores": [
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0
+      ]
+    },
+    {
+      "task_id": "mcmc-sampling-stan",
+      "passed_runs": 2,
+      "total_runs": 5,
+      "pass_at_5": true,
+      "scores": [
+        1.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0
+      ]
+    },
+    {
+      "task_id": "merge-diff-arc-agi-task",
+      "passed_runs": 3,
+      "total_runs": 5,
+      "pass_at_5": true,
+      "scores": [
+        0.0,
+        1.0,
+        1.0,
+        1.0,
+        0.0
+      ]
+    },
+    {
+      "task_id": "model-extraction-relu-logits",
+      "passed_runs": 0,
+      "total_runs": 5,
+      "pass_at_5": false,
+      "scores": [
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0
+      ]
+    },
+    {
+      "task_id": "modernize-scientific-stack",
+      "passed_runs": 3,
+      "total_runs": 5,
+      "pass_at_5": true,
+      "scores": [
+        1.0,
+        0.0,
+        1.0,
+        1.0,
+        0.0
+      ]
+    },
+    {
+      "task_id": "mteb-leaderboard",
+      "passed_runs": 3,
+      "total_runs": 5,
+      "pass_at_5": true,
+      "scores": [
+        0.0,
+        0.0,
+        1.0,
+        1.0,
+        1.0
+      ]
+    },
+    {
+      "task_id": "mteb-retrieve",
+      "passed_runs": 5,
+      "total_runs": 5,
+      "pass_at_5": true,
+      "scores": [
+        1.0,
+        1.0,
+        1.0,
+        1.0,
+        1.0
+      ]
+    },
+    {
+      "task_id": "multi-source-data-merger",
+      "passed_runs": 3,
+      "total_runs": 5,
+      "pass_at_5": true,
+      "scores": [
+        0.0,
+        1.0,
+        1.0,
+        1.0,
+        0.0
+      ]
+    },
+    {
+      "task_id": "nginx-request-logging",
+      "passed_runs": 4,
+      "total_runs": 5,
+      "pass_at_5": true,
+      "scores": [
+        0.0,
+        1.0,
+        1.0,
+        1.0,
+        1.0
+      ]
+    },
+    {
+      "task_id": "openssl-selfsigned-cert",
+      "passed_runs": 0,
+      "total_runs": 5,
+      "pass_at_5": false,
+      "scores": [
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0
+      ]
+    },
+    {
+      "task_id": "overfull-hbox",
+      "passed_runs": 2,
+      "total_runs": 5,
+      "pass_at_5": true,
+      "scores": [
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        1.0
+      ]
+    },
+    {
+      "task_id": "password-recovery",
+      "passed_runs": 4,
+      "total_runs": 5,
+      "pass_at_5": true,
+      "scores": [
+        1.0,
+        0.0,
+        1.0,
+        1.0,
+        1.0
+      ]
+    },
+    {
+      "task_id": "path-tracing",
+      "passed_runs": 4,
+      "total_runs": 5,
+      "pass_at_5": true,
+      "scores": [
+        1.0,
+        1.0,
+        1.0,
+        1.0,
+        0.0
+      ]
+    },
+    {
+      "task_id": "path-tracing-reverse",
+      "passed_runs": 5,
+      "total_runs": 5,
+      "pass_at_5": true,
+      "scores": [
+        1.0,
+        1.0,
+        1.0,
+        1.0,
+        1.0
+      ]
+    },
+    {
+      "task_id": "polyglot-c-py",
+      "passed_runs": 5,
+      "total_runs": 5,
+      "pass_at_5": true,
+      "scores": [
+        1.0,
+        1.0,
+        1.0,
+        1.0,
+        1.0
+      ]
+    },
+    {
+      "task_id": "polyglot-rust-c",
+      "passed_runs": 1,
+      "total_runs": 5,
+      "pass_at_5": true,
+      "scores": [
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0
+      ]
+    },
+    {
+      "task_id": "portfolio-optimization",
+      "passed_runs": 5,
+      "total_runs": 5,
+      "pass_at_5": true,
+      "scores": [
+        1.0,
+        1.0,
+        1.0,
+        1.0,
+        1.0
+      ]
+    },
+    {
+      "task_id": "protein-assembly",
+      "passed_runs": 0,
+      "total_runs": 5,
+      "pass_at_5": false,
+      "scores": [
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0
+      ]
+    },
+    {
+      "task_id": "prove-plus-comm",
+      "passed_runs": 5,
+      "total_runs": 5,
+      "pass_at_5": true,
+      "scores": [
+        1.0,
+        1.0,
+        1.0,
+        1.0,
+        1.0
+      ]
+    },
+    {
+      "task_id": "pypi-server",
+      "passed_runs": 5,
+      "total_runs": 5,
+      "pass_at_5": true,
+      "scores": [
+        1.0,
+        1.0,
+        1.0,
+        1.0,
+        1.0
+      ]
+    },
+    {
+      "task_id": "pytorch-model-cli",
+      "passed_runs": 2,
+      "total_runs": 5,
+      "pass_at_5": true,
+      "scores": [
+        1.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0
+      ]
+    },
+    {
+      "task_id": "pytorch-model-recovery",
+      "passed_runs": 5,
+      "total_runs": 5,
+      "pass_at_5": true,
+      "scores": [
+        1.0,
+        1.0,
+        1.0,
+        1.0,
+        1.0
+      ]
+    },
+    {
+      "task_id": "qemu-alpine-ssh",
+      "passed_runs": 0,
+      "total_runs": 5,
+      "pass_at_5": false,
+      "scores": [
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0
+      ]
+    },
+    {
+      "task_id": "qemu-startup",
+      "passed_runs": 0,
+      "total_runs": 5,
+      "pass_at_5": false,
+      "scores": [
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0
+      ]
+    },
+    {
+      "task_id": "query-optimize",
+      "passed_runs": 1,
+      "total_runs": 5,
+      "pass_at_5": true,
+      "scores": [
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0
+      ]
+    },
+    {
+      "task_id": "raman-fitting",
+      "passed_runs": 0,
+      "total_runs": 5,
+      "pass_at_5": false,
+      "scores": [
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0
+      ]
+    },
+    {
+      "task_id": "regex-chess",
+      "passed_runs": 0,
+      "total_runs": 5,
+      "pass_at_5": false,
+      "scores": [
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0
+      ]
+    },
+    {
+      "task_id": "regex-log",
+      "passed_runs": 5,
+      "total_runs": 5,
+      "pass_at_5": true,
+      "scores": [
+        1.0,
+        1.0,
+        1.0,
+        1.0,
+        1.0
+      ]
+    },
+    {
+      "task_id": "reshard-c4-data",
+      "passed_runs": 4,
+      "total_runs": 5,
+      "pass_at_5": true,
+      "scores": [
+        1.0,
+        1.0,
+        1.0,
+        1.0,
+        0.0
+      ]
+    },
+    {
+      "task_id": "rstan-to-pystan",
+      "passed_runs": 5,
+      "total_runs": 5,
+      "pass_at_5": true,
+      "scores": [
+        1.0,
+        1.0,
+        1.0,
+        1.0,
+        1.0
+      ]
+    },
+    {
+      "task_id": "sam-cell-seg",
+      "passed_runs": 0,
+      "total_runs": 5,
+      "pass_at_5": false,
+      "scores": [
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0
+      ]
+    },
+    {
+      "task_id": "sanitize-git-repo",
+      "passed_runs": 0,
+      "total_runs": 5,
+      "pass_at_5": false,
+      "scores": [
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0
+      ]
+    },
+    {
+      "task_id": "schemelike-metacircular-eval",
+      "passed_runs": 2,
+      "total_runs": 5,
+      "pass_at_5": true,
+      "scores": [
+        1.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0
+      ]
+    },
+    {
+      "task_id": "sparql-university",
+      "passed_runs": 2,
+      "total_runs": 5,
+      "pass_at_5": true,
+      "scores": [
+        0.0,
+        0.0,
+        1.0,
+        1.0,
+        0.0
+      ]
+    },
+    {
+      "task_id": "sqlite-db-truncate",
+      "passed_runs": 5,
+      "total_runs": 5,
+      "pass_at_5": true,
+      "scores": [
+        1.0,
+        1.0,
+        1.0,
+        1.0,
+        1.0
+      ]
+    },
+    {
+      "task_id": "sqlite-with-gcov",
+      "passed_runs": 2,
+      "total_runs": 5,
+      "pass_at_5": true,
+      "scores": [
+        1.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0
+      ]
+    },
+    {
+      "task_id": "torch-pipeline-parallelism",
+      "passed_runs": 0,
+      "total_runs": 5,
+      "pass_at_5": false,
+      "scores": [
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0
+      ]
+    },
+    {
+      "task_id": "torch-tensor-parallelism",
+      "passed_runs": 1,
+      "total_runs": 5,
+      "pass_at_5": true,
+      "scores": [
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0
+      ]
+    },
+    {
+      "task_id": "train-fasttext",
+      "passed_runs": 0,
+      "total_runs": 5,
+      "pass_at_5": false,
+      "scores": [
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0
+      ]
+    },
+    {
+      "task_id": "tune-mjcf",
+      "passed_runs": 0,
+      "total_runs": 5,
+      "pass_at_5": false,
+      "scores": [
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0
+      ]
+    },
+    {
+      "task_id": "video-processing",
+      "passed_runs": 0,
+      "total_runs": 5,
+      "pass_at_5": false,
+      "scores": [
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0
+      ]
+    },
+    {
+      "task_id": "vulnerable-secret",
+      "passed_runs": 4,
+      "total_runs": 5,
+      "pass_at_5": true,
+      "scores": [
+        1.0,
+        1.0,
+        1.0,
+        0.0,
+        1.0
+      ]
+    },
+    {
+      "task_id": "winning-avg-corewars",
+      "passed_runs": 0,
+      "total_runs": 5,
+      "pass_at_5": false,
+      "scores": [
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0
+      ]
+    },
+    {
+      "task_id": "write-compressor",
+      "passed_runs": 3,
+      "total_runs": 5,
+      "pass_at_5": true,
+      "scores": [
+        1.0,
+        0.0,
+        1.0,
+        1.0,
+        0.0
+      ]
+    }
+  ]
+}
