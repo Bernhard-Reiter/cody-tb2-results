@@ -1,0 +1,6 @@
+# Trial artifacts (kept locally only)
+*.tar
+*.tar.gz
+agent/
+*.log
+.DS_Store
